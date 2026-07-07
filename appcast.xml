@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Cortexa-LLC/ADSync-releases/releases/download/v1.2/ADSync.dmg"
+                url="https://github.com/Cortexa-LLC/ADSync-releases/releases/download/v1.2.1c63ce1/ADSync.dmg"
                 length="2098965"
                 type="application/octet-stream"
                 sparkle:edSignature="m+7GH3Ou4FoWQd9h2FfUH3pBvQazua+IH1XG0TPC6wRe7w4df+lZPFXOf26rp26j2AXDQzaUNJ8QE0tAgvMUCw==" />
