@@ -2,7 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>ADSync</title>
-                                                                                <item>
+                                                                                        <item>
+            <title>ADSync 1.4</title>
+            <pubDate>Fri, 17 Jul 2026 18:30:47 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Cortexa-LLC/ADSync-releases/releases/download/v1.4.b268eeb/ADSync.dmg"
+                length="2185615"
+                type="application/octet-stream"
+                sparkle:edSignature="Gfq+NMjXYg+xVSPCAd2cQSXXGs6mzslhKZPTx8Q/lrkhfp+jFEAJtywAv1eZjRxj2trEXKY7nfoSeop7oX3GDA==" />
+        </item>
+<item>
             <title>ADSync 1.3</title>
             <pubDate>Sun, 12 Jul 2026 23:44:45 +0000</pubDate>
             <sparkle:version>30</sparkle:version>
